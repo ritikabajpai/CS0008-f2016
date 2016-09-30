@@ -1,0 +1,12 @@
+When writing this code, I started off by recreating my flowchart so that I would have a list of steps to go off of for
+writing this code I started using my notes and the flowchart to start the code in pseudocode without worrying about the
+output and formatting aspect at the end. Than I started adding syntax and adding the section for printing the output and
+formatting. I had to look up some syntax issues online where I saw that writing raw_input is another way we can ask for
+input and I used that in my code for this assignment just because it is easier for me to understand. Additionally,
+on Wednesday, I was reviewing computer science with few friends in other classes and one of my friends taught me how to
+create a function which I used for the consumption rating because it simplified the code and I wanted to test out this
+new skill I learned. Earlier, in the test, I had written the code out similarly but without using the def operator. My
+thought process for this assignment was pretty basic as in I tried to use the operators and conditonal statements we
+have learned so far as well as some of my new knowledge to craft together the code based on the logic I had determined
+through my flowchart. It took a lot of trial and error especially with the syntax and some of my flawed logic in the
+beginning.

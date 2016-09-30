@@ -1,0 +1,8 @@
+Choose a system
+Press 1 for USC and 2 for Metric: 1
+How far did you drive: 8
+How much gas did you use: 6
+Distance: 8.0 miles 12.87472 Km
+Gas: 6.0 gallons 22.71246liters
+Consumption 1.33333333333 miles per gallon 176.411292828 l/100 km
+ Gas Consumption Rating:Extremely Poor
