@@ -22,11 +22,24 @@
 #Total number of lines read : xx
 #total distance run : xxxx.xxxxx
 #max distance run : xxxx.xxxxx by participant : participant name
-filename=”words”
-fh=open(filename,’r’)
-words=fh.readlines()
-fh.close()
-for line in words:
-	line.rstrip(‘\n’)
-Words_no_duplicates = list(set(words3))
-words_no_duplicates.sort()
+
+#printing the output needed by the program
+printKV('Number of Input files read', total_files, 28)
+printKV('Total number of lines read', total_lines, 28)
+print('')
+printKV('total distance run', total_distance, 28)
+print('')
+printKV('max distance run', main_max[1], 28)
+printKV(' by particpant', main_max[0], 28)
+print('')
+printKV('min distance run', main_min[1], 28)
+printKV(' by participant', main_min[0], 28)
+print('')
+printKV('Total number of participants', len(main_dict), 28)
+print('Number of participants')
+printKV('with multiple records', len(main_appearances_dict), 28)
+#creating the output file reporting name of the participant, how many times their
+# name appears in the input files and the total distance run.
+f = open('f2016_cs8_rib28_a3.data.output.csv', 'w')
+f.close()
+

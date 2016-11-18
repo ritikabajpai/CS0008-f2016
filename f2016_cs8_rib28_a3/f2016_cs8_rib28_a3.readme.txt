@@ -1,0 +1,10 @@
+When writing this code, I started off by creating a flowchart so that I could get an idea of the logic. Than using the
+flowchart and the book, I started writing as much as I could in  pseudocode without worrying about the
+ formatting. However, I was very confused and could not translate some of the logic into code until the review session
+ we did in class when I fully understood how to use files and also some of the functions (such as rstrip that were
+ recommended in the assignment)Than I started adding syntax and  and fixing up the formatting.  My thought process
+ for this assignment was pretty basic as in I tried to use the information we have learned so far as well as some of my
+ new knowledge to craft together the code based on the logic I had determined through my flowchart. It took a lot of
+ trial and error especially with the syntax and some of my flawed logic in the beginning. I am having a lot of trouble
+ taking the logic and the information we are learning in class and being able to turn it into code for the assignments.
+ I feel like I understand the information but not enough to use it when it comes to doing assignments.
