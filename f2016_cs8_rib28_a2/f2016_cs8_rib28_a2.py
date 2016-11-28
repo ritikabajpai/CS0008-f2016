@@ -12,6 +12,14 @@
 #Once you have the name of the file, you have to loop on all the lines, counting how many lines you
 #have in each file and providing a running tally on how much is the total distance run. This program does not work.
 
+#
+# MN: you need to respect code indentation
+#     have you tried to run this code?
+# MN: python is case sensitive, so if you write language key words in capital letters they will not work
+# MN: where is the definition of the function PRINTKV?
+#
+
+
 #define the function, begin process file function
 def processFile(fh):
 #partial total number equals 0
