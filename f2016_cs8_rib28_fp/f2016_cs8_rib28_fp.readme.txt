@@ -1,0 +1,4 @@
+I used the review of assignment three as well as the review of the final assignment to construct the basis of this
+assignment. Than I started inserting the methods and classes needed and insert in the values for the formatting. It
+took a lot of trial and error and looking up information on learnpython.org (and other websites but learnpython was
+the most helpful).
