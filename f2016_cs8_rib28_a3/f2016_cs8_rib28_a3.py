@@ -23,6 +23,11 @@
 #total distance run : xxxx.xxxxx
 #max distance run : xxxx.xxxxx by participant : participant name
 
+# 
+# MN: where is the rest of the program?
+#     Suggestion: you should experiment and make lot's of errors!!!
+#
+
 #printing the output needed by the program
 printKV('Number of Input files read', total_files, 28)
 printKV('Total number of lines read', total_lines, 28)
@@ -38,6 +43,7 @@ print('')
 printKV('Total number of participants', len(main_dict), 28)
 print('Number of participants')
 printKV('with multiple records', len(main_appearances_dict), 28)
+
 #creating the output file reporting name of the participant, how many times their
 # name appears in the input files and the total distance run.
 f = open('f2016_cs8_rib28_a3.data.output.csv', 'w')
